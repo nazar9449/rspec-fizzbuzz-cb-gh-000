@@ -8,7 +8,7 @@ def fizzbuzz (int)
     "FizzBuzz"
     
   end
- 
+
 
 end
 # Don't forget! This file needs to be 'required' in its spec file
